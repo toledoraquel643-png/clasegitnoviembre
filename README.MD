@@ -7,3 +7,5 @@
 - Actualizar una Rama 
 1. branch lista una Rama
 2. git switch cambiarme rama  
+
+![rosita](rosita.jpeg)
